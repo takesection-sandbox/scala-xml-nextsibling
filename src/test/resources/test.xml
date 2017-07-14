@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <key>foo</key>
+    <value>FOO</value>
+    <key>bar</key>
+    <value>BAR</value>
+    <key>baz</key>
+    <value>BAZ</value>
+</root>
